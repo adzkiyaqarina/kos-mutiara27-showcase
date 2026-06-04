@@ -14,8 +14,6 @@
 
 > [!NOTE]
 > Repositori ini adalah **etalase (showcase)** dari proyek. **Kode sumbernya privat** untuk menjaga keamanan data dan kredensial.
-> Tertarik melihat kodenya (mis. untuk rekrutmen)? Silakan hubungi saya — dengan senang hati saya beri akses.
-
 ---
 
 ## ✨ Tentang Proyek
