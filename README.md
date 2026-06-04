@@ -2,7 +2,7 @@
 
 # 🏠 KosMutiara27 — Sistem Manajemen Kos
 
-**Aplikasi web full-stack untuk mendigitalkan operasional kos/boarding house dari ujung ke ujung.**
+**Aplikasi web full-stack untuk mendigitalkan operasional kos/boarding house end-to-end.**
 
 [![Live](https://img.shields.io/badge/🌐_Live_Demo-mutiara27.eightspace.cloud-10B981?style=for-the-badge)](https://mutiara27.eightspace.cloud)
 
